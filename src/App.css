@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-logo-container{
+  position: absolute;
+  top: 5vmin;
+  left: 15vmin;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+.sunburst-d3{
+  position: absolute;
+  top: 40vmin;
+  left: 10vmin;
+  width: 500px;
+  height: 500px;
+}
+
+#bars{
+  position: absolute;
+  top: 20vmin;
+  right: 15vmin;
+}
+
+.selected-scenes{
+  font-size: 30px;
+  color: #2D9CDB;
+  position: absolute;
+  top: 10vmin;
+  right: 75vmin; 
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

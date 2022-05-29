@@ -1,0 +1,915 @@
+{
+    "name": "Hayao Miyazaki",
+    "children":
+    [
+        {
+            "name": "Ponyo on the Cliff", "size": 1, "year": 1988, "color":"#7490B6", "poster": "posters/animation2.jpg",
+            "children":
+            [
+                {
+                    "name": "Escena1", "size": 1, "year":2016, "color":"#8499A7", "scene": "movies/ponyo/mpv-shot0001.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#2C3C52"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#BDBDA5"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#9AB4B4"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#7F8182"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#8499A7"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#637F88"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#23121D"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#53687D"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#BF5A54"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena2", "size": 1, "year":2016, "color":"#98B24C", "scene": "movies/ponyo/mpv-shot0002.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#527247"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#D5B58C"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#5E949B"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#98B24C"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#919565"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#E5AF21"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#212A2A"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#35551A"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#165E75"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena3", "size": 1, "year":2016,"color":"#2C4154", "scene": "movies/ponyo/mpv-shot0003.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#0D131A"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#10293C"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#AE834D"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#645028"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#649D79"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#315F3D"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#313F32"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#5C8484"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#2C4154"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena4", "size": 1, "year":2016,"color":"#416789", "scene": "movies/ponyo/mpv-shot0004.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#1D3A57"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#C58985"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#709BB0"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#6187A2"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#416789"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#675C60"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#0D1B29"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#26597F"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#94373D"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena5", "size": 1, "year":2016,"color":"#F0B547", "scene": "movies/ponyo/mpv-shot0005.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#F0B547"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#0F141C"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#453E3E"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#745A3E"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#536067"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#2C3E4C"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#524C45"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#88887D"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#9C5C34"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena6", "size": 1, "year":2016,"color":"#D8AFA5", "scene": "movies/ponyo/mpv-shot0006.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#DC766F"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#363150"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#EDCFAB"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#916D53"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#D4AF89"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#D8AFA5"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#B5662C"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#9A3733"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#736C72"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena7", "size": 1, "year":2016,"color":"#A4B588", "scene": "movies/ponyo/mpv-shot0007.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#D8BA8A"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#642E32"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#62A27D"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#856259"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#747636"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#A4B588"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#A9C5B9"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#205F81"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#8CCC96"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena8", "size": 1, "year":2016,"color":"#717A76", "scene": "movies/ponyo/mpv-shot0008.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#9AA15F"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#1A1D1D"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#659252"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#636548"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#3E623A"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#404335"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#717A76"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#3A494C"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#894946"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena9", "size": 1, "year":2016,"color":"#B97B59", "scene": "movies/ponyo/mpv-shot0009.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#F9D673"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#F07163"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#8B8081"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#DBC1A6"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#ECA366"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#B97B59"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#CF7530"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#BA4A3E"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#C69484"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Porco Rosso", "size":1, "year": 1992, "color":"#6DA4AD", "poster": "posters/animation5.jpg",
+            "children":
+            [
+                {
+                    "name": "Escena1", "size": 1, "year": 1992, "color":"#9C8C66", "scene": "movies/porco_rosso/mpv-shot0001.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#232B26"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#504430"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#C9BFA0"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#635C3D"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#677467"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#8A715B"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#909687"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#9C8C66"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#348C94"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena2", "size": 1, "year": 1992, "color":"#2E3950", "scene": "movies/porco_rosso/mpv-shot0002.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#BBA38E"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#181A18"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#6B8295"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#694B3F"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#4D557C"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#2E3950"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#424F64"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#433027"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#A01C24"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena3", "size": 1, "year": 1992, "color":"#565242", "scene": "movies/porco_rosso/mpv-shot0003.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#B19873"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#081611"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#565242"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#2B3029"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#71817B"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#314748"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#50626C"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#983A37"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#2B3B44"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena4", "size": 1, "year": 1992, "color":"#4A8EA7", "scene": "movies/porco_rosso/mpv-shot0004.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#98B0B1"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#4A8EA7"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#CBB7A1"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#9D342D"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#599CB3"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#726E7D"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#92868F"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#846921"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#A38576"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena5", "size": 1, "year": 1992, "color":"#317788", "scene": "movies/porco_rosso/mpv-shot0005.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#C3A86A"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#05506B"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#452E1E"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#8F4724"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#5E5953"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#6C98A2"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#041C34"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#317788"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#648C9C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena6", "size": 1, "year": 1992, "color":"#9BB2AF", "scene": "movies/porco_rosso/mpv-shot0006.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#C9C5B1"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#3C2D21"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#217496"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#9BB2AF"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#8C8781"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#658E9D"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#4F5052"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#B22A26"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#1C3244"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena7", "size": 1, "year": 1992, "color":"#044D7C", "scene": "movies/porco_rosso/mpv-shot0007.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#043359"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#A83411"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#101317"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#5B8AA1"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#316582"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#044D7C"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#367496"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#4B474F"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#06142C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena8", "size": 1, "year": 1992, "color":"#6DA4AD", "scene": "movies/porco_rosso/mpv-shot0008.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#B9AA8E"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#055C81"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#19252D"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#0D2344"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#556E79"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#93522E"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#6DA4AD"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#5C9AAC"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#1A849C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena9", "size": 1, "year": 1992, "color":"#427550", "scene": "movies/porco_rosso/mpv-shot0009.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#AAB08A"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#1A352B"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#749D6E"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#697250"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#317592"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#427550"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#43503C"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#9E524E"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#154F72"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "The Wind Rises", "size": 1, "year": 2013, "color":"#1B4918", "poster": "posters/animation9.jpg",
+            "children":
+            [
+                {
+                    "name": "Escena1", "size": 1, "year": 2013, "color":"#4494A6", "scene": "movies/the_wind_rises/mpv-shot0001.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#2E6366"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#A29F9E"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#3DACB4"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#4494A6"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#2A2F2F"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#44778F"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#737886"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#2F3D33"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#4C8C9B"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena2", "size": 1, "year": 2013, "color":"#463F2E", "scene": "movies/the_wind_rises/mpv-shot0002.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#2B2921"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#5A543F"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#787056"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#463F2E"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#4A4D3C"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#696C51"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#5F5E54"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#40413D"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#171312"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena3", "size": 1, "year": 2013, "color":"#6D805C", "scene": "movies/the_wind_rises/mpv-shot0003.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#363D33"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#C0AD82"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#8F885D"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#9BA77B"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#64623F"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#778896"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#4B656F"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#6D805C"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#B45459"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena4", "size": 1, "year": 2013, "color":"#9BA498", "scene": "movies/the_wind_rises/mpv-shot0004.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#555954"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#B9B49A"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#232D31"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#8C8C7D"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#73919C"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#9BA498"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#79857C"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#34342B"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#342C29"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena5", "size": 1, "year": 2013, "color":"#8CB843", "scene": "movies/the_wind_rises/mpv-shot0005.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#8CB843"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#2E5566"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#6D4728"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#F1BF8C"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#9EC1BF"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#878B7D"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#8A673A"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#C1B251"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#A4546C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena6", "size": 1, "year": 2013, "color":"#148188", "scene": "movies/the_wind_rises/mpv-shot0006.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#148188"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#7A4633"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#B2C5B9"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#8A7F3A"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#638881"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#F0CFAD"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#BB9567"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#2C412D"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#AE7563"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena7", "size": 1, "year": 2013, "color":"#0581A1", "scene": "movies/the_wind_rises/mpv-shot0007.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#91A98F"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#5C972D"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#D7D0BA"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#0581A1"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#43392F"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#387059"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#299CAD"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#54B44F"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#BC544C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena8", "size": 1, "year": 2013, "color":"#624629", "scene": "movies/the_wind_rises/mpv-shot0008.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#34271C"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#B69F78"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#836B44"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#959270"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#67664F"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#624629"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#878185"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#56534E"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#A44C59"
+                        }
+                    ]
+                },
+                {
+                    "name": "Escena9", "size": 1, "year": 2013, "color":"#3B7525", "scene": "movies/the_wind_rises/mpv-shot0009.jpg",
+                    "children":
+                    [
+                        {
+                            "name": "Color1", "size": 1,"color":"#3B7525"
+                        },
+                        {
+                            "name": "Color2", "size": 1,"color":"#B8AF8D"
+                        },
+                        {
+                            "name": "Color3", "size": 1,"color":"#7F8A78"
+                        },
+                        {
+                            "name": "Color4", "size": 1,"color":"#253227"
+                        },
+                        {
+                            "name": "Color5", "size": 1,"color":"#56963E"
+                        },
+                        {
+                            "name": "Color6", "size": 1,"color":"#757F60"
+                        },
+                        {
+                            "name": "Color7", "size": 1,"color":"#546354"
+                        },
+                        {
+                            "name": "Color8", "size": 1,"color":"#85B493"
+                        },
+                        {
+                            "name": "Color9", "size": 1,"color":"#1B4918"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

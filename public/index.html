@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>React App</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <div id="bars"></div>
+    <script>
+      var width = 500,//660,
+        height =  500,//550,
+        radius = (Math.min(width, height) / 2)-10;
+
+      function updateSunburst(newValue){
+        d3.selectAll(".sunburst-d3").remove();
+        d3.selectAll(".tooltip").remove();
+        init();
+        if (newValue === 1){
+          asd("chazelle_sort.json")
+        } else if (newValue === 2){
+          asd("miyazaki.json")
+        } else if (newValue === 3){
+          asd("takahata.json")
+        } else if (newValue === 4){
+          asd("bondarchuk.json")
+        }
+      }
+      
+      function init()
+      {
+        formatNumber = d3.format(",d");
+    
+        x = d3.scale
+          .linear()
+          .range([0, 2 * Math.PI]);
+    
+        y = d3.scale
+          .sqrt()
+          .range([0, radius]);
+    
+        color = d3.scale.category20c();
+    
+        partition = d3.layout.partition()
+        .value(function(d) { return d.size; });
+    
+        arc = d3.svg.arc()
+        .startAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x))); })
+        .endAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))); })
+        .innerRadius(function(d) { return Math.max(0, y(d.y)); })
+        .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
+    
+        const svgCounter = document.querySelectorAll(".sunburst-d3").length;
+
+        if (svgCounter === 0) {
+          svg = d3.select("body")
+            .append("svg")
+              .attr("class", "sunburst-d3")
+            .append("g")
+              .attr("transform", "translate(250, 250)");
+          
+          div = d3.select("body")
+            .append("div")
+              .attr("class", "tooltip")
+              .style("opacity", 1e-6);
+        }
+      }
+      
+      init()
+      asd("chazelle_sort.json")
+      function asd(select_jason)
+      {
+          d3.json(select_jason, function(error, root) {
+            if (error) throw error;
+
+            // Sort colors circle
+            root.children.forEach(function(son) {
+              son.children.forEach(function(grandchild) {
+                var palette = [];
+                grandchild.children.forEach(function(greatgrandson){
+                  palette.push(greatgrandson.color); 
+                });
+                palette=[...new Set(palette)];
+                var rgbArr = palette.map(hexToRgb);
+                var sortedRgbArr = sortColors(rgbArr);
+                var finalArrayPalette = sortedRgbArr.map(rgbToHex);
+                var i = 0;
+                grandchild.children.forEach(function(greatgrandson){
+                  greatgrandson.color=finalArrayPalette[i]; 
+                  i++;
+                });
+              });
+            });
+        
+            svg.selectAll("path")
+                .data(partition.nodes(root))
+                .enter().append("path")
+                .attr("d", arc)
+                .style("fill", function(d) { return color1(d);})
+                .on("click", click)
+                .on("auxclick", auxclick)
+                .on("mouseover", mouseover)
+                .on("mousemove", mousemove)
+                .on("mouseout", mouseout)
+                // .append("title")
+                // .text(function(d) { if (d.year){return "Name : " + d.name + "\n" + "Box Office : " + formatNumber(d.size) +"$"+"\n" + "Year : " + formatNumber(d.year);} else {return d.name }});
+          });
+      }
+      function color1(d)
+        {
+        if(!d.color)
+        { 
+          //return "blue";
+          //return color(d.name);
+          if(d.name=="Romance")
+            return "#D31360";
+          else if(d.name=="Drama")
+            return "#6E6E6E";
+          else if(d.name=="Musical")
+            return "#8904B1";
+          else if(d.name=="Animation")
+            return "#5882FA";
+          else if(d.name=="Indie")
+            return "#2EFEC8";
+          else if(d.name=="Sci-fi")
+            return "#04B404";
+          else if(d.name=="Comedy")
+            return "#F7FE2E";
+          else if(d.name=="Action")
+            return "#0000FF";
+          else if(d.name=="Noir")
+            return "#585858";
+          else if(d.name=="Horror")
+            return "#000000";
+          else if(d.name=="Documental")
+            return "#088A4B";
+          else
+            return color(d.name);
+        }
+        else
+        {
+          return d.color;
+          //return color(d.name);
+          //return "blue";
+        }
+      }
+      
+      function mouseover(d)
+      {
+          if(d.year)
+          {
+              div.transition()
+            .duration(500)
+            .style("opacity", 1);
+          }
+      }
+      function mousemove(d)
+      {
+          if(d.poster)
+          {
+              div
+              .html("<img src='"+d.poster+"' style='height:215px;width:150px;'>")
+                  .style("left", (d3.event.pageX - 10) + "px")
+                  .style("top", (d3.event.pageY - 200) + "px");
+          }
+          if(d.scene)
+          {
+              div
+              .html("<img src='"+d.scene+"' style='height:180px;width:460px;'>")
+                  .style("left", (d3.event.pageX - 10) + "px")
+                  .style("top", (d3.event.pageY - 200) + "px");
+          }
+      }
+      function mouseout(d)
+      {
+          if(d.year)
+          {
+              div.transition()
+            .duration(500)
+            .style("opacity", 1e-6);
+          }
+      }
+      
+      function click(d) {
+        svg.transition()
+            .duration(750)
+            .tween("scale", function() {
+              var xd = d3.interpolate(x.domain(), [d.x, d.x + d.dx]),
+                  yd = d3.interpolate(y.domain(), [d.y, 1]),
+                  yr = d3.interpolate(y.range(), [d.y ? 20 : 0, radius]);
+              return function(t) { x.domain(xd(t)); y.domain(yd(t)).range(yr(t)); };
+            })
+          .selectAll("path")
+            .attrTween("d", function(d) { return function() { return arc(d); }; });
+      }
+
+      function auxclick(d) {
+        if(d.scene)
+        {
+          // Define limit of scenes
+          if (document.getElementById("bars").children.length < 5) {
+            //Get colors and sort them
+            var palette = [];
+            for (let element of d.children) {
+              palette.push(element.color); 
+            }
+            appendScene(d.scene, "bars", d.scene, palette);
+          }
+        }
+      }
+
+      function appendScene(imageSource, containerId, imageId, palette) {
+        if(document.getElementById(imageId) == null){ 
+          //Create Div
+          var newDiv = document.createElement("div");
+          document.getElementById(containerId).appendChild(newDiv);
+
+          //Append image
+          var img = document.createElement("IMG");
+          img.src = imageSource;
+          img.setAttribute('id', imageId);
+          img.setAttribute('width', 368);
+          img.setAttribute('height', 144);
+          img.setAttribute("style", "margin-right: 20px; border-radius: 15px;");
+          newDiv.appendChild(img);
+
+          //Sort colors
+          var rgbArr = palette.map(hexToRgb);
+          var sortedRgbArr = sortColors(rgbArr);
+          var finalArrayPalette = sortedRgbArr.map(rgbToHex);
+
+          //Append colors
+          finalArrayPalette.forEach(function(color) {
+            var svg_rect = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+            svg_rect.setAttribute('width', 40);
+            svg_rect.setAttribute('height',144);
+            svg_rect.style.background = color;
+            newDiv.appendChild(svg_rect);
+          });
+
+          //Append Remove button
+          var button = document.createElement("button");
+          button.innerHTML = "Remove";
+          button.onclick = function(){
+            newDiv.parentNode.removeChild(newDiv);
+            return false;
+          };
+          newDiv.appendChild(button);
+          return imageId;
+        }    
+      }
+
+      //Sort colors functions
+      function hexToRgb(hex) {
+        hex = hex.substring(1, hex.length);
+        var r = parseInt((hex).substring(0, 2), 16);
+        var g = parseInt((hex).substring(2, 4), 16);
+        var b = parseInt((hex).substring(4, 6), 16);
+        
+        return [r, g, b];
+      }
+
+      function rgbToHex(rgb) {
+        return "#" + ((1 << 24) + (rgb[0] << 16) + (rgb[1] << 8) + rgb[2]).toString(16).slice(1);
+      }
+
+      function colorDistance(color1, color2) {
+        // This is actually the square of the distance but
+        // this doesn't matter for sorting.
+        var result = 0;
+        for (var i = 0; i < color1.length; i++)
+            result += (color1[i] - color2[i]) * (color1[i] - color2[i]);
+        return result;
+      }
+
+      function sortColors(colors) {
+          // Calculate distance between each color
+          var distances = [];
+          for (var i = 0; i < colors.length; i++) {
+              distances[i] = [];
+              for (var j = 0; j < colors.length; j++)
+                  distances.push([colors[i], colors[j], colorDistance(colors[i], colors[j])]);
+          }
+          distances.sort(function(a, b) {
+              return a[2] - b[2];
+          });
+
+          // Put each color into separate cluster initially
+          var colorToCluster = {};
+          for (var i = 0; i < colors.length; i++)
+              colorToCluster[colors[i]] = [colors[i]];
+
+          // Merge clusters, starting with lowest distances
+          var lastCluster;
+          for (var i = 0; i < distances.length; i++) {
+              var color1 = distances[i][0];
+              var color2 = distances[i][1];
+              var cluster1 = colorToCluster[color1];
+              var cluster2 = colorToCluster[color2];
+              if (!cluster1 || !cluster2 || cluster1 == cluster2)
+                  continue;
+
+              // Make sure color1 is at the end of its cluster and
+              // color2 at the beginning.
+              if (color1 != cluster1[cluster1.length - 1])
+                  cluster1.reverse();
+              if (color2 != cluster2[0])
+                  cluster2.reverse();
+       
+              // Merge cluster2 into cluster1
+              cluster1.push.apply(cluster1, cluster2);
+              delete colorToCluster[color1];
+              delete colorToCluster[color2];
+              colorToCluster[cluster1[0]] = cluster1;
+              colorToCluster[cluster1[cluster1.length - 1]] = cluster1;
+              lastCluster = cluster1;
+          }
+          var last = colors.length-1
+          if(lastCluster[0][0]+lastCluster[0][1]+lastCluster[0][2]>lastCluster[last][0]+lastCluster[last][1]+lastCluster[last][2])
+          {
+            lastCluster.reverse();
+          }
+
+          // By now all colors should be in one cluster
+          return lastCluster;
+      }
+
+      
+      d3.select(self.frameElement).style("height", height + "px");
+      d3.select("body").style("background-color","white")
+      
+      </script>
+    <style type="text/css">
+      div.tooltip {
+        position: absolute;
+        text-align: center;
+        width: 20px;
+        height: 33px;
+        padding: 8px;
+        font: 10px sans-serif;
+        border-radius: 8px;
+        pointer-events: none;
+      }
+    </style>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+</html>
