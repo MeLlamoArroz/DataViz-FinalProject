@@ -1,0 +1,1218 @@
+{
+  "name": "Hayao Miyazaki",
+  "children":
+  [
+      {
+          "name": "War and Peace, Part I: Andrei Bolkonsky", "size": 1, "year": 1965, "color":"#6A7A7D", "poster": "posters/war_and_peace_1.jpg",
+          "children":
+          [
+              {
+                  "name": "Escena1", "size": 1, "year":1965, "color":"#5B7677", "scene": "movies/war_and_peace_1/mpv-shot0001.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#ACB6B5"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#232A2D"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#91ACB4"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#708F98"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#5C4839"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#83745D"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#5B7677"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#465E68"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#9C9C7C"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena2", "size": 1, "year":1965, "color":"#393F39", "scene": "movies/war_and_peace_1/mpv-shot0002.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#1C1819"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#6F715A"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#556255"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#AFAB81"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#80A085"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#4B493D"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#393F39"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#4F5354"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#618C8C"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena3", "size": 1, "year":1965,"color":"#4C4238", "scene": "movies/war_and_peace_1/mpv-shot0003.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#0C060B"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#819689"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#577160"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#2E3E32"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#4C4238"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#1B211D"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#30211E"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#2A2B34"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#4E5C64"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena4", "size": 1, "year":1965,"color":"#32434D", "scene": "movies/war_and_peace_1/mpv-shot0004.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#0F100E"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#9F9083"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#635B4F"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#7A8A82"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#42504C"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#3B372F"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#272F2E"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#32434D"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#647A84"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena5", "size": 1, "year":1965,"color":"#2A2E34", "scene": "movies/war_and_peace_1/mpv-shot0005.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#14141A"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#58534D"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#353539"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#2A2E34"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#707468"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#908A7D"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#414744"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#383B44"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#6C6C6C"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena6", "size": 1, "year":1965,"color":"#675040", "scene": "movies/war_and_peace_1/mpv-shot0006.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#110F12"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#9BAD96"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#675040"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#927257"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#3D2A24"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#474E3E"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#748C7C"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#7C847C"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#444444"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena7", "size": 1, "year":1965,"color":"#3F5562", "scene": "movies/war_and_peace_1/mpv-shot0007.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#202223"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#3D463F"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#B6B5A2"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#5B6B6E"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#3F5562"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#60534B"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#5A8099"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#80A8B8"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#463831"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena8", "size": 1, "year":1965,"color":"#445D69", "scene": "movies/war_and_peace_1/mpv-shot0008.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#1D1D27"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#546B7A"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#909AAD"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#374C5C"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#445D69"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#675655"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#443838"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#748492"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#8A746A"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena9", "size": 1, "year":1965,"color":"#708579", "scene": "movies/war_and_peace_1/mpv-shot0009.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#4C594F"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#C4C7AA"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#13151A"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#869182"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#9DB0A1"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#708579"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#6A7A7D"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#1C2C2B"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#8EA2AD"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "War and Peace, Part II: Natasha Rostova", "size":1, "year": 1966, "color":"#A08B79", "poster": "posters/war_and_peace_2.jpg",
+          "children":
+          [
+              {
+                  "name": "Escena1", "size": 1, "year": 1966, "color":"#342923", "scene": "movies/war_and_peace_2/mpv-shot0001.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#0F0A0D"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#585345"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#799387"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#95997E"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#6A746A"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#342923"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#40403D"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#434C45"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#242C29"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena2", "size": 1, "year": 1966, "color":"#95A396", "scene": "movies/war_and_peace_2/mpv-shot0002.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#B8C1B3"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#231D1C"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#7D6F5A"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#95A396"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#553F31"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#5C6A63"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#4E5B5C"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#8C9294"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#A45844"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena3", "size": 1, "year": 1966, "color":"#A08B79", "scene": "movies/war_and_peace_2/mpv-shot0003.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#6A6352"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#D3AB8F"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#1F1F1E"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#4C3B1F"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#A08B79"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#3B291F"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#8D8E7D"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#99A3AA"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#A9B6B8"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena4", "size": 1, "year": 1966, "color":"#3F616F", "scene": "movies/war_and_peace_2/mpv-shot0004.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#333D34"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#55819A"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#486E7F"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#3F616F"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#A78F7B"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#7A6553"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#5B5144"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#8C948C"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#3C6C8C"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena5", "size": 1, "year": 1966, "color":"#494D3D", "scene": "movies/war_and_peace_2/mpv-shot0005.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#120F11"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#614F39"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#A88E74"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#3C2C21"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#7B877A"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#2A2C25"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#494D3D"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#63706E"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#3A4244"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena6", "size": 1, "year": 1966, "color":"#434442", "scene": "movies/war_and_peace_2/mpv-shot0006.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#544542"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#0B090D"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#352629"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#1E161B"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#434442"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#111C1F"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#1C212C"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#3E3C44"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#202D2D"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena7", "size": 1, "year": 1966, "color":"#A38A82", "scene": "movies/war_and_peace_2/mpv-shot0007.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#454943"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#A9C2C1"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#949FA2"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#808A84"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#A38A82"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#755E52"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#110E0E"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#616E77"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#CCAC94"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena8", "size": 1, "year": 1966, "color":"#4A4954", "scene": "movies/war_and_peace_2/mpv-shot0008.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#16111B"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#6B5D51"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#A99281"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#453A36"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#525551"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#323538"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#898C84"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#4A4954"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#84848C"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena9", "size": 1, "year": 1966, "color":"#AD9963", "scene": "movies/war_and_peace_2/mpv-shot0009.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#769A7D"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#281713"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#5A6854"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#74715A"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#AD9963"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#533B2B"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#3F3B2F"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#58827C"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#424C4C"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "War and Peace, Part III: The Year 1812", "size": 1, "year": 1967, "color":"#4C4A43", "poster": "posters/war_and_peace_3.jpg",
+          "children":
+          [
+              {
+                  "name": "Escena1", "size": 1, "year": 1967, "color":"#40443F", "scene": "movies/war_and_peace_3/mpv-shot0001.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#12121A"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#51504E"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#627071"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#393333"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#232938"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#3B4750"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#827A79"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#40443F"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#586474"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena2", "size": 1, "year": 1967, "color":"#2B3B30", "scene": "movies/war_and_peace_3/mpv-shot0002.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#171516"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#6A6244"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#ADAF94"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#435A46"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#2B3B30"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#433D2C"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#819B87"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#3F4B4C"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#708C8C"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena3", "size": 1, "year": 1967, "color":"#546458", "scene": "movies/war_and_peace_3/mpv-shot0003.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#B4C6AE"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#1E1F20"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#8AA48F"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#715B50"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#546458"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#4C3B34"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#7C8985"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#465055"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#9E5A3A"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena4", "size": 1, "year": 1967, "color":"#68766E", "scene": "movies/war_and_peace_3/mpv-shot0004.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#2B2025"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#BDC6B9"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#94B3B2"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#8A8272"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#68766E"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#63554C"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#7E999E"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#4D544C"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#585F67"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena5", "size": 1, "year": 1967, "color":"#0F1C2A", "scene": "movies/war_and_peace_3/mpv-shot0005.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#080911"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#9E6534"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#5E6455"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#4F3C30"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#0F1C2A"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#2E3C3D"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#1F2C34"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#321D18"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#3E5156"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena6", "size": 1, "year": 1967, "color":"#648690", "scene": "movies/war_and_peace_3/mpv-shot0006.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#2C3C4A"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#658FA2"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#486D82"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#191613"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#648690"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#868071"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#5A6665"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#59524C"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#0D1326"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena7", "size": 1, "year": 1967, "color":"#8A8C7A", "scene": "movies/war_and_peace_3/mpv-shot0007.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#2C3035"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#73685A"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#414C51"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#504E48"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#A0917C"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#4D565C"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#8A8C7A"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#7B817C"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#576765"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena8", "size": 1, "year": 1967, "color":"#A49784", "scene": "movies/war_and_peace_3/mpv-shot0008.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#231C1D"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#6289A2"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#796C5A"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#4A677D"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#A49784"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#56493E"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#8A8D7D"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#615C4B"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#2C5C94"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena9", "size": 1, "year": 1967, "color":"#334048", "scene": "movies/war_and_peace_3/mpv-shot0009.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 1,"color":"#828777"
+                      },
+                      {
+                          "name": "Color2", "size": 1,"color":"#0F0E12"
+                      },
+                      {
+                          "name": "Color3", "size": 1,"color":"#5B6764"
+                      },
+                      {
+                          "name": "Color4", "size": 1,"color":"#48575E"
+                      },
+                      {
+                          "name": "Color5", "size": 1,"color":"#334048"
+                      },
+                      {
+                          "name": "Color6", "size": 1,"color":"#4C4A43"
+                      },
+                      {
+                          "name": "Color7", "size": 1,"color":"#26303C"
+                      },
+                      {
+                          "name": "Color8", "size": 1,"color":"#1E2730"
+                      },
+                      {
+                          "name": "Color9", "size": 1,"color":"#2F2A29"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+        "name": "War and Peace, Part IV: Pierre Bezukhov", "size": 1, "year": 1967, "color":"#4C5D6C", "poster": "posters/war_and_peace_4.jpg",
+        "children":
+        [
+            {
+                "name": "Escena1", "size": 1, "year": 1967, "color":"#96B5BB", "scene": "movies/war_and_peace_4/mpv-shot0001.jpg",
+                "children":
+                [
+                    {
+                        "name": "Color1", "size": 1,"color":"#568AA5"
+                    },
+                    {
+                        "name": "Color2", "size": 1,"color":"#B5A89C"
+                    },
+                    {
+                        "name": "Color3", "size": 1,"color":"#312D30"
+                    },
+                    {
+                        "name": "Color4", "size": 1,"color":"#698284"
+                    },
+                    {
+                        "name": "Color5", "size": 1,"color":"#96B5BB"
+                    },
+                    {
+                        "name": "Color6", "size": 1,"color":"#4A6E80"
+                    },
+                    {
+                        "name": "Color7", "size": 1,"color":"#836757"
+                    },
+                    {
+                        "name": "Color8", "size": 1,"color":"#57615C"
+                    },
+                    {
+                        "name": "Color9", "size": 1,"color":"#594841"
+                    }
+                ]
+            },
+            {
+                "name": "Escena2", "size": 1, "year": 1967, "color":"#626454", "scene": "movies/war_and_peace_4/mpv-shot0002.jpg",
+                "children":
+                [
+                    {
+                        "name": "Color1", "size": 1,"color":"#1F1716"
+                    },
+                    {
+                        "name": "Color2", "size": 1,"color":"#756957"
+                    },
+                    {
+                        "name": "Color3", "size": 1,"color":"#484C44"
+                    },
+                    {
+                        "name": "Color4", "size": 1,"color":"#575349"
+                    },
+                    {
+                        "name": "Color5", "size": 1,"color":"#626454"
+                    },
+                    {
+                        "name": "Color6", "size": 1,"color":"#9C7A64"
+                    },
+                    {
+                        "name": "Color7", "size": 1,"color":"#40342D"
+                    },
+                    {
+                        "name": "Color8", "size": 1,"color":"#3E3B3C"
+                    },
+                    {
+                        "name": "Color9", "size": 1,"color":"#645C5C"
+                    }
+                ]
+            },
+            {
+                "name": "Escena3", "size": 1, "year": 1967, "color":"#613C30", "scene": "movies/war_and_peace_4/mpv-shot0003.jpg",
+                "children":
+                [
+                    {
+                        "name": "Color1", "size": 1,"color":"#C26E30"
+                    },
+                    {
+                        "name": "Color2", "size": 1,"color":"#352626"
+                    },
+                    {
+                        "name": "Color3", "size": 1,"color":"#86482D"
+                    },
+                    {
+                        "name": "Color4", "size": 1,"color":"#8B9261"
+                    },
+                    {
+                        "name": "Color5", "size": 1,"color":"#613C30"
+                    },
+                    {
+                        "name": "Color6", "size": 1,"color":"#4F463E"
+                    },
+                    {
+                        "name": "Color7", "size": 1,"color":"#646349"
+                    },
+                    {
+                        "name": "Color8", "size": 1,"color":"#6C765C"
+                    },
+                    {
+                        "name": "Color9", "size": 1,"color":"#463C44"
+                    }
+                ]
+            },
+            {
+                "name": "Escena4", "size": 1, "year": 1967, "color":"#403E38", "scene": "movies/war_and_peace_4/mpv-shot0004.jpg",
+                "children":
+                [
+                    {
+                        "name": "Color1", "size": 1,"color":"#6F6459"
+                    },
+                    {
+                        "name": "Color2", "size": 1,"color":"#8F7B6F"
+                    },
+                    {
+                        "name": "Color3", "size": 1,"color":"#121319"
+                    },
+                    {
+                        "name": "Color4", "size": 1,"color":"#4E4F47"
+                    },
+                    {
+                        "name": "Color5", "size": 1,"color":"#403E38"
+                    },
+                    {
+                        "name": "Color6", "size": 1,"color":"#2F3632"
+                    },
+                    {
+                        "name": "Color7", "size": 1,"color":"#837C70"
+                    },
+                    {
+                        "name": "Color8", "size": 1,"color":"#3A4251"
+                    },
+                    {
+                        "name": "Color9", "size": 1,"color":"#807474"
+                    }
+                ]
+            },
+            {
+                "name": "Escena5", "size": 1, "year": 1967, "color":"#8C9C9C", "scene": "movies/war_and_peace_4/mpv-shot0005.jpg",
+                "children":
+                [
+                    {
+                        "name": "Color1", "size": 1,"color":"#637075"
+                    },
+                    {
+                        "name": "Color2", "size": 1,"color":"#8F9FB2"
+                    },
+                    {
+                        "name": "Color3", "size": 1,"color":"#202923"
+                    },
+                    {
+                        "name": "Color4", "size": 1,"color":"#36433E"
+                    },
+                    {
+                        "name": "Color5", "size": 1,"color":"#223437"
+                    },
+                    {
+                        "name": "Color6", "size": 1,"color":"#37494F"
+                    },
+                    {
+                        "name": "Color7", "size": 1,"color":"#959598"
+                    },
+                    {
+                        "name": "Color8", "size": 1,"color":"#303336"
+                    },
+                    {
+                        "name": "Color9", "size": 1,"color":"#8C9C9C"
+                    }
+                ]
+            },
+            {
+                "name": "Escena6", "size": 1, "year": 1967, "color":"#232A33", "scene": "movies/war_and_peace_4/mpv-shot0006.jpg",
+                "children":
+                [
+                    {
+                        "name": "Color1", "size": 1,"color":"#0F0B14"
+                    },
+                    {
+                        "name": "Color2", "size": 1,"color":"#15395C"
+                    },
+                    {
+                        "name": "Color3", "size": 1,"color":"#3A4145"
+                    },
+                    {
+                        "name": "Color4", "size": 1,"color":"#23567C"
+                    },
+                    {
+                        "name": "Color5", "size": 1,"color":"#232A33"
+                    },
+                    {
+                        "name": "Color6", "size": 1,"color":"#215473"
+                    },
+                    {
+                        "name": "Color7", "size": 1,"color":"#536A68"
+                    },
+                    {
+                        "name": "Color8", "size": 1,"color":"#545758"
+                    },
+                    {
+                        "name": "Color9", "size": 1,"color":"#0E142C"
+                    }
+                ]
+            },
+            {
+                "name": "Escena7", "size": 1, "year": 1967, "color":"#848484", "scene": "movies/war_and_peace_4/mpv-shot0007.jpg",
+                "children":
+                [
+                    {
+                        "name": "Color1", "size": 1,"color":"#212121"
+                    },
+                    {
+                        "name": "Color2", "size": 1,"color":"#6E6E6E"
+                    },
+                    {
+                        "name": "Color3", "size": 1,"color":"#AFAFAF"
+                    },
+                    {
+                        "name": "Color4", "size": 1,"color":"#8C8C8C"
+                    },
+                    {
+                        "name": "Color5", "size": 1,"color":"#848484"
+                    },
+                    {
+                        "name": "Color6", "size": 1,"color":"#949494"
+                    },
+                    {
+                        "name": "Color7", "size": 1,"color":"#5C5C5C"
+                    },
+                    {
+                        "name": "Color8", "size": 1,"color":"#484848"
+                    },
+                    {
+                        "name": "Color9", "size": 1,"color":"#545454"
+                    }
+                ]
+            },
+            {
+                "name": "Escena8", "size": 1, "year": 1967, "color":"#31373E", "scene": "movies/war_and_peace_4/mpv-shot0008.jpg",
+                "children":
+                [
+                    {
+                        "name": "Color1", "size": 1,"color":"#181C22"
+                    },
+                    {
+                        "name": "Color2", "size": 1,"color":"#6E7170"
+                    },
+                    {
+                        "name": "Color3", "size": 1,"color":"#4B5255"
+                    },
+                    {
+                        "name": "Color4", "size": 1,"color":"#5A6464"
+                    },
+                    {
+                        "name": "Color5", "size": 1,"color":"#31373E"
+                    },
+                    {
+                        "name": "Color6", "size": 1,"color":"#4B3E3F"
+                    },
+                    {
+                        "name": "Color7", "size": 1,"color":"#394443"
+                    },
+                    {
+                        "name": "Color8", "size": 1,"color":"#352D30"
+                    },
+                    {
+                        "name": "Color9", "size": 1,"color":"#545C6C"
+                    }
+                ]
+            },
+            {
+                "name": "Escena9", "size": 1, "year": 1967, "color":"#697A7A", "scene": "movies/war_and_peace_4/mpv-shot0009.jpg",
+                "children":
+                [
+                    {
+                        "name": "Color1", "size": 1,"color":"#28232B"
+                    },
+                    {
+                        "name": "Color2", "size": 1,"color":"#BEBEAA"
+                    },
+                    {
+                        "name": "Color3", "size": 1,"color":"#90ACAA"
+                    },
+                    {
+                        "name": "Color4", "size": 1,"color":"#888177"
+                    },
+                    {
+                        "name": "Color5", "size": 1,"color":"#697A7A"
+                    },
+                    {
+                        "name": "Color6", "size": 1,"color":"#644F4C"
+                    },
+                    {
+                        "name": "Color7", "size": 1,"color":"#4A5255"
+                    },
+                    {
+                        "name": "Color8", "size": 1,"color":"#6897AA"
+                    },
+                    {
+                        "name": "Color9", "size": 1,"color":"#4C5D6C"
+                    }
+                ]
+            }
+        ]
+    }
+  ]
+}

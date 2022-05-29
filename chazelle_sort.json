@@ -1,0 +1,612 @@
+{
+  "name": "Damien Chazelle",
+  "children":
+  [
+      {
+          "name": "Whiplash", "size": 1, "year": 2014, "color":"#0E1011" ,"poster": "posters/musical12.jpg",
+          "children":
+          [
+              {
+                  "name": "", "size": 445700000, "year":2016 ,"color":"#0B1413", "scene": "movies/whiplash/mpv-shot0001.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#091212"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#37382c"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#2d494f"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#3b5a57"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#62604d"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#8c6c4c"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#517e88"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#7c958b"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#b3baa7"
+                      }
+                  ]
+              },
+              {
+                  "name": "", "size": 445700000, "year":2016 ,"color":"#7C5825", "scene": "movies/whiplash/mpv-shot0002.jpg",
+                  "children":
+                  [
+                      {  
+                          "name": "Color1", "size": 445700000,"color":"#211a0f"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#442404"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#4d3819"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#60451d"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#60441d"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#6c4420"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#745014"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#896128"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#b27f36"
+                      }
+                  ]
+              },
+              {
+                  "name": "", "size": 445700000, "year":2016 ,"color":"#21180D", "scene": "movies/whiplash/mpv-shot0003.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#100e08"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#282c2c"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#4e2e16"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#554930"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#744721"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#a44414"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#b38753"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#8e8059"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#7c745c"
+                      }
+                  ]
+              },
+              {
+                  "name": "", "size": 445700000, "year":2016 ,"color":"#272C22", "scene": "movies/whiplash/mpv-shot0004.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#151812"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#4a442b"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#364538"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#45534c"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#4f604f"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#6e7a61"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#7d8a85"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#869d84"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#bbc5a8"
+                      }
+                  ]
+              },
+              {
+                  "name": "", "size": 445700000, "year":2016 ,"color":"#3E3C2D", "scene": "movies/whiplash/mpv-shot0005.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#A2BFA7"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#E1E5CC"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#262823"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#6B5F3B"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#988865"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#708065"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#83A097"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#BC9C78"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#556766"
+                      }
+                  ]
+              },
+              {
+                  "name": "", "size": 445700000, "year":2016 ,"color":"#121210", "scene": "movies/whiplash/mpv-shot0006.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#B56E23"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#111210"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#FADD84"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#693E1B"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#744C2C"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#3E2715"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#261D13"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#7C5C34"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#2C2C20"
+                      }
+                  ]
+              },
+              {
+                  "name": "", "size": 445700000, "year":2016 ,"color":"#313E2F", "scene": "movies/whiplash/mpv-shot0007.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#233026"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#B8B389"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#689EA2"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#85B1AA"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#83885F"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#526140"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#746D3B"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#516862"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#AC644C"
+                      }
+                  ]
+              },
+              {
+                  "name": "", "size": 445700000, "year":2016 ,"color":"#252623", "scene": "movies/whiplash/mpv-shot0008.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#1C1D1B"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#C0B08F"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#6A6A5C"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#434439"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#515F54"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#88948A"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#808A85"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#475151"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#944C24"
+                      }
+                  ]
+              },
+              {
+                  "name": "", "size": 445700000, "year":2016 ,"color":"#DEA04A", "scene": "movies/whiplash/mpv-shot0009.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#DEA04A"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#8A511C"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#251F10"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#603D17"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#463A24"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#AC4C14"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#685E2E"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#9C9C7C"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#9C846C"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "La La Land", "size": 1, "year": 2016, "color":"#0D0E43", "poster": "posters/musical5.jpg",
+          "children":
+          [
+              {
+                  "name": "Escena1", "size": 445700000, "year":2016 ,"color":"#292026", "scene": "movies/la_la_land/mpv-shot0001.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#C59F7E"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#A5B1BA"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#1E181D"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#95584B"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#60636D"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#593630"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#8D8D99"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#474B61"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#AC9C7C"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena2", "size": 445700000, "year":2016 ,"color":"#333544", "scene": "movies/la_la_land/mpv-shot0002.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#2F384D"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#B29671"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#896C50"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#311910"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#5C5050"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#43547E"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#6676A4"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#9C9CAC"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#6C6C60"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena3", "size": 1, "year":2016 ,"color":"#081826", "scene": "movies/la_la_land/mpv-shot0003.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#06121E"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#BA6168"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#175774"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#0B314C"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#4A96A9"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#19779F"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#235754"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#572E2E"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#193935"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena4", "size": 445700000, "year":2016 ,"color":"#20201C", "scene": "movies/la_la_land/mpv-shot0004.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#C0AC8B"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#171917"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#6F583C"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#7E9D68"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#442D22"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#6A7799"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#46654C"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#A53325"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#324861"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena5", "size": 445700000, "year":2016 ,"color":"#8C7FA6", "scene": "movies/la_la_land/mpv-shot0005.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#8C7FA6"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#A26C5A"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#3B406B"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#0C0B0F"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#50332D"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#23243D"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#68520E"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#3680A1"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#4C8C84"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena6", "size": 445700000, "year":2016 ,"color":"#2E2930", "scene": "movies/la_la_land/mpv-shot0006.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#1E1B1E"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#483F4A"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#957778"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#695050"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#393745"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#504D60"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#7C7484"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#325454"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#7C7C7C"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena7", "size": 445700000, "year":2016 ,"color":"#383317", "scene": "movies/la_la_land/mpv-shot0007.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#423D1A"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#B0A68A"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#736036"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#070606"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#636433"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#898D6E"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#21110C"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#858276"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#4B5049"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena8", "size": 445700000, "year":2016 ,"color":"#1E162F", "scene": "movies/la_la_land/mpv-shot0008.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#181121"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#6C1947"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#0D5E91"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#15346E"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#C56DAD"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#451C3F"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#1F2049"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#146C84"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#2C3C54"
+                      }
+                  ]
+              },
+              {
+                  "name": "Escena9", "size": 445700000, "year":2016 ,"color":"#DDCFC4", "scene": "movies/la_la_land/mpv-shot0009.jpg",
+                  "children":
+                  [
+                      {
+                          "name": "Color1", "size": 445700000,"color":"#413B57"
+                      },
+                      {
+                          "name": "Color2", "size": 445700000,"color":"#DFD5CA"
+                      },
+                      {
+                          "name": "Color3", "size": 445700000,"color":"#A21E1E"
+                      },
+                      {
+                          "name": "Color4", "size": 445700000,"color":"#CC867D"
+                      },
+                      {
+                          "name": "Color5", "size": 445700000,"color":"#888184"
+                      },
+                      {
+                          "name": "Color6", "size": 445700000,"color":"#CEAF9D"
+                      },
+                      {
+                          "name": "Color7", "size": 445700000,"color":"#B67158"
+                      },
+                      {
+                          "name": "Color8", "size": 445700000,"color":"#646C74"
+                      },
+                      {
+                          "name": "Color9", "size": 445700000,"color":"#C59398"
+                      }
+                  ]
+              }
+          ]
+      }
+  ]
+}
